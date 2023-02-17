@@ -1,0 +1,84 @@
+/* for admin.php */
+table{
+    margin-top: 200px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid orange;
+    background-color: orange;
+
+}
+th{
+    border-bottom: 4px solid rgb(197, 99, 99);
+    border-radius: 12px;
+    background: #00a9b0;
+    color: #fff;
+    padding: 5px 0;
+}
+header{
+    border-radius: 8px;
+    border: 2px solid orange;
+    background-color: #00a9b0;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+ navbar a{
+    margin-right: 10px;
+    font-size: 30px;
+    margin-right: 50px;
+    text-decoration: none;
+    color: #fff;
+}
+.logo{
+    font-size: 35px;
+    color: orange;
+    text-decoration: none;
+    
+}
+/* for index.php */
+
+.container {
+    margin: 100px 400px;
+    margin-right: 100px;
+    align-items: center;
+
+}
+form input{
+    display: flex;
+    margin: 10px;
+    font-size: 40px;
+    font-weight: 500;
+    width: 60%;
+    border: 4px solid orange;
+}
+.description{
+    align-items: center;
+    padding-left: 60px;
+}
+ p{
+    font-size: 40px;
+    width: 70%;
+    align-items: center;
+    color: #00a9b0;
+}
+.logo1{
+    font-size: 50px;
+    color: orange;
+    text-decoration: none;
+    padding-left: 230px;
+    font-weight: 900;
+}
+.btn{
+    width: 61%;
+    margin-left: 9px;
+    font-size: 40px;
+    background: #00a9b0;
+    color: #fff;
+    border: 1px solid orange;
+    border-radius: 6px;
+}
